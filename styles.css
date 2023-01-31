@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.moviepic{
+.moviePic{
     height: 264px;
     width: 180;
     opacity:0.8 ;
@@ -8,7 +8,7 @@
     margin-right: 20px;
 
 }
-.moviedetail{
+.movieDetail{
     position: relative;
     top: 50%;
     left: 50%;
@@ -16,6 +16,6 @@
     text-align: center;
     font-size: 1.2em;
 }
-.moviecontainer{
+.movieContainer{
     position: relative;
 }
