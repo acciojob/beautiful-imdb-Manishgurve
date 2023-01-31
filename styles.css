@@ -1,21 +1,24 @@
 
 /* Your CSS Code here. */
-.moviePic{
-    height: 264px;
-    width: 180;
-    opacity:0.8 ;
+.moviePic {
+    height: 268px;
+    width: 182px;
+    opacity: 0.8;
     float: left;
     margin-right: 20px;
-
-}
-.movieDetail{
-    position: relative;
+  }
+  
+  .movieDetail {
+    position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
     width: 60%;
     text-align: center;
     font-size: 1.2em;
-}
-.movieContainer{
+  }
+  
+  .movieContainer {
     position: relative;
-}
+  }
+  
